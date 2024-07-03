@@ -1,0 +1,1 @@
+export const NATS_SERVICE = "INJ_TOK_4_NATS_SERVICE";
